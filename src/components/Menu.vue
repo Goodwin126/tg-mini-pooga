@@ -1,5 +1,5 @@
 <template>
-  <div class="flex place-content-center mt-6">
+  <div class="flex place-content-center mt-10">
     <div class="flex flex-col w-1/3">
       <div class="flex grid grid-cols-3 flex-auto">
         <img class="flex-justify-left m-auto" src="/Ellipse 3.png" />

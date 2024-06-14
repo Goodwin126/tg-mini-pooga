@@ -1,12 +1,12 @@
 <script setup></script>
 <template>
-  <div class="flex">
-    <dive class="flex-col gap-2 hover:cursor-pointer ml-4 mt-4">
+  <div class="flex relative">
+    <dive class="flex-col gap-2 hover:cursor-pointer ml-4 mt-4 absolute">
       <img class="transition transform hover:scale-110 translate-y-1" src="/Rectangle 1.png" />
       <img class="mt-2 transition transform hover:scale-110 translate-y-1" src="/Rectangle 2.png" />
       <img class="mt-2 transition transform hover:scale-110 translate-y-1" src="/Rectangle 3.png" />
     </dive>
-    <div class="w-5/6 ml-4">
+    <div class="w-full ml-4">
       <h1 class="text-xl font-bold text-gray-500 text-center mt-4">Сегодня: суббота</h1>
       <div class="flex place-content-center mt-5">
         <img class="absolute" src="/Ellipse 1.png" />
